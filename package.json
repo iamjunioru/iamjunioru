@@ -7,7 +7,7 @@
     "postversion": "npm publish"
   },
   "bin": {
-    "carolis": "./iamjunioru.js"
+    "iamjunioru": "./iamjunioru.js"
   },
   "keywords": [
     "iamjunioru",
