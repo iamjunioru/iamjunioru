@@ -1,0 +1,27 @@
+{
+  "name": "iamjunioru",
+  "version": "0.1.0",
+  "description": "hello world x)",
+  "main": "./juninfo.json",
+  "scripts": {
+    "postversion": "npm publish"
+  },
+  "bin": {
+    "carolis": "./iamjunioru.js"
+  },
+  "keywords": [
+    "iamjunioru",
+    "dream",
+    "contact"
+  ],
+  "author": "Junior Sousa",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamjunioru/iamjunioru.git"
+  },
+  "bugs": {
+    "url": "https://github.com/iamjunioru/iamjunioru/issues"
+  },
+  "homepage": "https://github.com/iamjunioru/iamjunioru#readme"
+}
